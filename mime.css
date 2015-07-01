@@ -1,0 +1,22 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#mon {
+	position: absolute;
+	background-color: #58ACFA;
+	text-align: center;
+	height: 100%;
+	width:100%;
+}
+#center{
+	display: inline-block;
+	height: 100%;
+	vertical-align: middle;
+
+}
+#mon img{
+	display: inline-block;
+	vertical-align: middle;
+}
