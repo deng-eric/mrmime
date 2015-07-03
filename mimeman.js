@@ -2,9 +2,9 @@
   window.onload = shiny;
 
   function shiny(){
-    randomNum = Math.floor((Math.random() * 10));
+    noMasuda = Math.floor((Math.random() * 4096));
     var w;
-    if(randomNum == 0){
+    if(noMasuda == 0){
       w = "RARE.gif"
     }
     else{
